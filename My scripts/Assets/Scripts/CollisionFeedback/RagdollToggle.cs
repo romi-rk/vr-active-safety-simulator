@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ragDollOn : MonoBehaviour
+public class RagdollToggle : MonoBehaviour
 {
     public BoxCollider MainCollider;
     public GameObject thisGuysRig;

@@ -5,7 +5,7 @@ using System.Collections.Generic;
 namespace Unity.AI.Navigation.Samples
 {
     [RequireComponent(typeof(NavMeshAgent))]
-    public class NavigationLoop1 : MonoBehaviour
+    public class WaypointLoopAgent : MonoBehaviour
     {
         private NavMeshAgent m_Agent;
         private Animator m_Animator;

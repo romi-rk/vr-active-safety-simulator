@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class vendingAudio : MonoBehaviour
+public class ProximityAudioTrigger : MonoBehaviour
 {
     public float triggerRadius = 5f;       // Radius in XZ plane
     public AudioSource audioSource;        // AudioSource on this object
